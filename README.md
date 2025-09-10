@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
-- 📫 How to reach me **kumarihiskesh1@gmail.com**
+- 📫 How to reach me **kumarishikesh1@gmail.com**
 
 
 **Languages and Tools:**  
