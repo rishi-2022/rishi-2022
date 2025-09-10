@@ -1,129 +1,70 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rishikeshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<h1 align="center">Hi 👋, I'm Anshika Gupta</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320" height="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
 </p>
 
-![Mastan  (21)](https://github.com/user-attachments/assets/bdbc23f0-17df-4f72-986d-dee9afcf18bd)
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/rishikesh-kumar-126904223/">Rishikesh Kumar</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
+<div align="center">
 
-- 🌱 **Currently Working On:** [Visual Sort](https://visual-sort-pink.vercel.app/)<br>
-- 💬 Ask Me About: JAVA, SQL, Web Development, Anime, Designing, or anything. <br>
-- 📫 Reach Me At: [kumarishikesh1@gmail.com](mailto:kumarishikesh1@gmail.com) <br>
-- ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
-- 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
-- 🌎 I Know English, Hindi, Marathi  (familiar). <br>
-- 📍 **Location:** India <br>
-
-<br>
-<br>
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <a href="https://www.linkedin.com/in/kumarishikesh1/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  <a href="https://twitter.com/Rishikesh71688056" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="https://www.instagram.com/rishikesh.tech?igsh=Nm1rZmR6NXBzcDV6&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-D7008A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
 </div>
-<br>
-<br>
 
-<details><summary>🚀 Open Source Contributions:</summary>
-  <br>
-  <table width="100%" align="center">
-    <tr>
-    </tr>
-    <tr>
-      <td>GirlScript Summer of Code (GSSoC'24) </td>
-      <td>
-        <ul>
-          <li>Role: <strong>Open Source Contributor</strong></li>
-          <li>Contributed to multiple open-source projects.</li>
-          <li>Fixed UI/UX issues, added FAQs, and enhanced features.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Vinyasa Summer of Code (VSoC) 24</td>
-      <td>
-        <ul>
-          <li>Role: <strong>Project Admin</strong></li>
-          <li>Managed GitHub repositories, assigned issues, guided contributors, and resolved code conflicts.</li>
-          <li>Successfully handled project administration and contributed to the project's growth and development.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</details>
 
-<details><summary>🏆 Notable Projects:</summary>
-  <br>
-  <table width="100%">
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td><a href="https://visual-sort-pink.vercel.app/">Visual Sort</a></td>
-      <td>Visual Sort is a web-based sorting algorithm visualization tool built using HTML, CSS, Bootstrap, SCSS, and JavaScript. This project provides an interactive way to visualize various sorting algorithms in action, helping users understand how different algorithms work and their efficiency in sorting data.</td>
-    </tr>
-  </table>
-</details>
+- 🔭 I’m currently working on **E-GAN (Evolutionary Generative Adversarial Networks)**
 
-<br>
+- 🌱 I’m currently learning **Parallel Computation**
 
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mastansayyad&theme=radical" alt="Profile Summary">
-</td>
-</tr>
-</table>
+- 👨‍💻 Know more about my projects & experiences at https://github.com/Anshika66-Gupta 
 
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=mastansayyad&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github.com/user-attachments/assets/8029244a-c064-4699-b1fd-d6573978d5d1" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
-<br>
+- 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
-<p align="center">
-  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
+- 📫 How to reach me **ansgupta.01@gmail.com**
+
+
+**Languages and Tools:**  
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/sayyadmast3" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
+
+
+<h2><i>My GitHub Stats</i></h2>
+
+<p align="center" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika66-Gupta&layout=compact&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anshika66-Gupta&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
 </p>
+<br>
+<p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika66-Gupta&show_icons=true&locale=en&theme=radical" alt="Anshika66-Gupta" /></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
-</p>
-## Hi there 👋
+Hi
 
-<!--
-**rishi-2022/rishi-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
