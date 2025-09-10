@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshika Gupta</h1>
+<h1 align="center">Hi 👋, I'm Rishikesh Kumar</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320" height="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
@@ -27,11 +27,11 @@
 
 - 🌱 I’m currently learning **Parallel Computation**
 
-- 👨‍💻 Know more about my projects & experiences at https://github.com/Anshika66-Gupta 
+- 👨‍💻 Know more about my projects & experiences at https://github.com/rishi-2022 
 
 - 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
-- 📫 How to reach me **ansgupta.01@gmail.com**
+- 📫 How to reach me **kumarihiskesh1@gmail.com**
 
 
 **Languages and Tools:**  
