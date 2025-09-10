@@ -4,16 +4,16 @@
 
 ![Mastan  (21)](https://github.com/user-attachments/assets/bdbc23f0-17df-4f72-986d-dee9afcf18bd)
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Mastan Sayyad</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/rishikesh-kumar-126904223/">Rishikesh Kumar</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 - 🌱 **Currently Working On:** [Visual Sort](https://visual-sort-pink.vercel.app/)<br>
 - 💬 Ask Me About: JAVA, SQL, Web Development, Anime, Designing, or anything. <br>
-- 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
+- 📫 Reach Me At: [kumarishikesh1@gmail.com](mailto:kumarishikesh1@gmail.com) <br>
 - ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
 - 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
-- 🌎 I Know English, Hindi, Marathi | Telugu, Japanese, and Turkish (familiar). <br>
+- 🌎 I Know English, Hindi, Marathi  (familiar). <br>
 - 📍 **Location:** India <br>
 
 <br>
